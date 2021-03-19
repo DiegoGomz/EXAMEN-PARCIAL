@@ -1,0 +1,65 @@
+html{
+    background-color: dimgray;
+}
+
+.texto{
+    background-color: darkslategray;
+
+
+}
+
+.texto2{
+    background-color: rgb(212, 193, 248);
+
+
+}
+
+
+.t1{
+    color: floralwhite;
+    font-family: 'NTR', sans-serif;
+    font-size: 150%;
+    text-align: center;
+}
+
+.t2{
+    color: rgb(0, 0, 0);
+    font-family: 'NTR', sans-serif;
+    font-size: 150%;
+
+}
+
+main{
+    background-color: wheat;
+    font-family: 'NTR', sans-serif;
+    color: black;
+    font-size: 150%;
+    text-align: center;
+}
+
+.personajes{
+    background-color: wheat;
+}
+
+.espacio{
+    background-color: dimgrey;
+    width: 300px;
+    display: flexbox;
+
+}
+
+.bill{
+    width: 300px;
+
+}
+
+.Steve{
+    width: 300px;
+}
+.Jeff{
+    width: 300px;
+}
+
+.Mark{
+    width: 300px;
+}
